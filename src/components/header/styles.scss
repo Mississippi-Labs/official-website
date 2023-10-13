@@ -48,15 +48,14 @@
                 &:hover::after {
                     transform: rotate(0);
                 }
-            }
 
-            &:hover {
-
-
-                .menu-lv2 {
-                    display: block;
+                &:hover {
+                    .menu-lv2 {
+                        display: block;
+                    }
                 }
             }
+
         }
 
         .menu-lv2 {
